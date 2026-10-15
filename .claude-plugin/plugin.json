@@ -1,0 +1,10 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "description": "Queue messages with /queue so they only run after Claude has completely finished the current task.",
+  "author": {
+    "name": "Diogo Araújo"
+  },
+  "license": "MIT",
+  "keywords": ["queue", "workflow", "sequential", "stop-hook"]
+}

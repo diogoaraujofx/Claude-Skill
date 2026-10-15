@@ -1,0 +1,15 @@
+{
+  "name": "queue-plugin",
+  "description": "A /queue command for Claude Code: messages wait until the current task is fully done.",
+  "owner": {
+    "name": "Diogo Araújo"
+  },
+  "plugins": [
+    {
+      "name": "queue",
+      "source": "./",
+      "description": "Queue messages with /queue so they only run after Claude has completely finished the current task.",
+      "version": "1.0.0"
+    }
+  ]
+}
