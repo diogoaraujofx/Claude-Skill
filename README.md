@@ -16,14 +16,14 @@ When you send Claude Code a new message while it is still working, it starts rea
 Inside Claude Code:
 
 ```
-/plugin marketplace add <github-user>/<repo>
+/plugin marketplace add diogoaraujofx/Claude-Skill
 /plugin install queue@queue-plugin
 ```
 
 Or from a shell:
 
 ```
-claude plugin marketplace add <github-user>/<repo>
+claude plugin marketplace add diogoaraujofx/Claude-Skill
 claude plugin install queue@queue-plugin
 ```
 
